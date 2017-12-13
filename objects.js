@@ -1,7 +1,7 @@
 var playlist = {
-  artists.songs
+  artist: song
 }
 
 function updatePlaylist(playlist, artist, song) {
-  
+
 }
